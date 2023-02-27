@@ -2,14 +2,14 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://notb1ackcow.github.io/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: https://notb1ackcow.github.io/
 
 # Title of the Site
 title: Not_b1ackcow
 # Description of the Site
-description: @not_b1ackcow portfolio site
+description: not_b1ackcow portfolio site
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
