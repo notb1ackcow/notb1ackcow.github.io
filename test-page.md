@@ -3,18 +3,18 @@ title: Test Page
 layout: page
 ---
 
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
-[This is a link](#)
+[Link](#)
 
-> This is a blockquote
+> Blockquote
 
-`This is code`
+`Code`
 
 ### Bullet List
 * Item 1
