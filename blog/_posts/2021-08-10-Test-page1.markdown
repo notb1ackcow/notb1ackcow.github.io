@@ -41,7 +41,7 @@ date: 2021-08-10 11:32:53 +0900
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
+
 
 <!-- outline-start -->
 
