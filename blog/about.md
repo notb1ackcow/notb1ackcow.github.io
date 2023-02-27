@@ -127,8 +127,6 @@ If you are using a different service like MailChimp, you can build a custom news
 
 ## Features
 
-{% include features.md %}
-
 
 ## Comparison
 
