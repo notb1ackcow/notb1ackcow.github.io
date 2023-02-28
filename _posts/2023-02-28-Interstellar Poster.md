@@ -1,15 +1,15 @@
 ---
 title: Interstllar Poster Remake
 layout: post
-post-image: "https://i.ibb.co/0Fp9rBZ/Mixerbrush-site.png"
-description: My Best Artwork
+post-image: "https://i.ibb.co/jLVc84q/Interstella-Poster-Site.png"
+description: My Favorite Movie, "INTERSTELAR"
 tags:
-- Best
-- Artwork
-- MixerBrush
+- Poster
+- Movie
+- Interstellar
 ---
 
-Artwork using Photoshop's Mixer Brush function, This is my best artwork i think
-* [Link](https://www.instagram.com/p/CpFp1VCvEm-/?utm_source=ig_web_copy_link)
+If someone ask me "What's your favorite movie?", I'll say "Interstellar". I remaked Interstellar movie poster.
+* [Link](https://www.instagram.com/p/CpMt8W9PGz9/?utm_source=ig_web_copy_link)
 
 ---
