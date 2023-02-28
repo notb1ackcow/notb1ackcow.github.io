@@ -10,6 +10,6 @@ tags:
 ---
 
 New design trand, Glassmorphism. Apple use this design often
-* [Link](https://www.instagram.com/p/CpMt8W9PGz9/?utm_source=ig_web_copy_link)
+* [Link](https://www.instagram.com/p/CpHWio9vITa/?utm_source=ig_web_copy_link)
 
 ---
