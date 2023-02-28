@@ -1,7 +1,7 @@
 ---
 title: Glassmorphism
 layout: post
-post-image: "https://i.ibb.co/VT6d5W3/underconstruction.png"
+post-image: "https://i.ibb.co/Ytm6rFT/Glassmorphism-Site.png"
 description: New design trand, "Glassmorphism"
 tags:
 - Design
@@ -9,7 +9,7 @@ tags:
 - Glassmorphism
 ---
 
-Updating... Wait Please
+New design trand, Glassmorphism. Apple use this design often
 * [Link](https://www.instagram.com/p/CpMt8W9PGz9/?utm_source=ig_web_copy_link)
 
 ---
