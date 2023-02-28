@@ -1,16 +1,16 @@
 
 ---
-title: Interstllar Poster Remake
+title: Glassmorphism
 layout: post
-post-image: "https://i.ibb.co/jLVc84q/Interstella-Poster-Site.png"
-description: My Favorite Movie, "INTERSTELAR"
+post-image: "https://i.ibb.co/VT6d5W3/underconstruction.png"
+description: New design trand, "Glassmorphism"
 tags:
-- Poster
-- Movie
-- Interstellar
+- Design
+- Artwork
+- Glassmorphism
 ---
 
-If someone ask me "What's your favorite movie?", I'll say "Interstellar". I remaked Interstellar movie poster.
+Updating... Wait Please
 * [Link](https://www.instagram.com/p/CpMt8W9PGz9/?utm_source=ig_web_copy_link)
 
 ---
