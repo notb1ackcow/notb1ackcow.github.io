@@ -1,5 +1,5 @@
 ---
-title: Interstllar Poster Remake
+title: Interstellar Poster Remake
 layout: post
 post-image: "https://i.ibb.co/jLVc84q/Interstella-Poster-Site.png"
 description: My Favorite Movie, "INTERSTELAR"
